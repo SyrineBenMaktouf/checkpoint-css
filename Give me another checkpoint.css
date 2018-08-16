@@ -1,0 +1,105 @@
+.img{
+    background-image: url("../res/bg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body{  background-image: url("../res/bg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+  
+h1 {text-align: center;
+    text-shadow: 3px 2px rgb(6, 6, 65);
+    font-family: Futura, ‘sans-serif’;
+    color: whitesmoke;
+  padding-top: 400px;
+   font-size: 100px;
+    
+}
+
+
+span.p1{
+  display: inline-block ;
+  width: 500px;
+  height: 350px ;
+  background-color: rgb(185, 192, 190) ;
+  margin-left: 120px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip; 
+    text-align: center;
+    margin-top: 50px}
+span.p2{
+  display: inline-block ;
+  width: 500px;
+  height: 350px ;
+  background-color: rgb(185, 192, 190) ;
+  margin-left: 50px;
+  margin-top: 9px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip; 
+    text-align: center;
+}
+span.p3{
+  display: inline-block ;
+  width: 500px;
+  height: 350px ;
+  background-color: rgb(185, 192, 190) ;
+  margin-left: 120px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip; 
+    text-align: center;
+    margin-top: 50px
+}
+span.p4{
+  display: inline-block ;
+  width: 500px;
+  height: 350px ;
+  background-color: rgb(185, 192, 190) ;
+  margin-left: 50px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip; 
+    text-align: center;
+  
+}
+span.p5{
+  display: inline-block ;
+  width: 500px;
+  height: 350px ;
+  background-color: rgb(185, 192, 190) ;
+  margin-left: 120px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip; 
+    text-align: center;
+    margin-top: 50px
+}
+span.p6{
+  display: inline-block ;
+  width: 500px;
+  height: 350px ;
+  background-color: rgb(185, 192, 190) ;
+  margin-left: 50px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip; 
+    text-align: center;
+}
+.p1,.p2,.p3,.p4,.p5,.p6{font-family: "Comic Sans MS", cursive, sans-serif;}
+.text1{
+  color: black ;}
+  span.p1:hover{
+    border:5px solid black;}
+  span.p2:hover{
+    border:5px solid black;} 
+  span.p3:hover{
+    border:5px solid black;} 
+  span.p4:hover{
+    border:5px solid black;}    
+  span.p5:hover{
+    border:5px solid black;}  
+  span.p6:hover{
+    border:5px solid black;} 
